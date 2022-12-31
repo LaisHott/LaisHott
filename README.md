@@ -20,7 +20,7 @@
   <img align="center" alt="lala-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="lala-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="lala-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="lala-pic" height="150" style="border-radius:50px;" src="download20221206160601.png">
+  <img align="right" alt="lala-pic" height="150" style="border-radius:50px;" src="https://github.com/LaisHott/LaisHott/blob/main/download20221206160601.png">
 </div>
   
   ##
