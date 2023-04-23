@@ -4,9 +4,9 @@
 -->
 
 ## 👋 Hello! Welcome to my Github profile....under construction 🏗️ 
-- 🔭 I’m currently working on.... 
-- 👯 I’m looking to collaborate on a lot of projects 
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on Bootcamp fro data analytics 
+- 👯 I’m looking to collaborate on meaniful projects 
+- ⚡ Fun fact: My background is from Veterinary services 
 
 
 <div align="center">
@@ -23,7 +23,8 @@
 
   ## 💡 I’m currently learning:
   <img align="center" alt="lala-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
+  <img align="center" alt="lala-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
   
   ##
  
