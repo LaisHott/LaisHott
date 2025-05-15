@@ -4,7 +4,7 @@
 
 <h1 align="center">👋 Hey, I'm Lais!</h1>
 
-<p align="center">📊 Aspiring Data Analyst • 🧠 Lifelong Learner • 🐾 Vet turned Tech</p>
+<p align="center">📊 Aspiring Data Scientist • 🧠 Lifelong Learner • 🐾 Vet turned Tech</p>
 
 ---
 
