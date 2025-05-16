@@ -34,11 +34,11 @@
 
 ## 📚 Currently Learning
 
-- 🧠 Data Cleaning & Visualization (Matplotlib, Seaborn, Plotly)
-- 📊 Statistical Analysis & Hypothesis Testing
-- 🔍 Exploratory Data Analysis (EDA)
+- 🧠 Data Visualization (Matplotlib, Seaborn, Plotly)
 - 🤖 Intro to Machine Learning (Scikit-learn)
 - 🛠 Version Control with Git & GitHub
+- 🗄️ SQL for data querying
+- ☁️ Basics of Cloud deployment for models
 
 ---
 
